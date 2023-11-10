@@ -35,7 +35,7 @@ echo ("#############   magnets_holder_height=",magnets_holder_height);
 echo ("#############   support_diameter=",support_diameter);
 echo ("#############   support_diff=",support_diff);
 
-CUT_VISUAL = true;
+CUT_VISUAL = false;
 
 module cutVisualizasion() {
   if (CUT_VISUAL) {
